@@ -21,16 +21,26 @@
 title: NinanKara's
 email: ninankara@snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  A website about Innovation.
+  Passionate developer who is trying to utilizing technology to solve real worl problem. This site contains past and ongoing project developed by the author.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ninankara
 github_username:  ninankara
 
 # Build settings
-theme: minima
+remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
+
+collections: [sections]
+
+# Theme Settings
+order: 1
+cover-photo: assets/gFY120s.jpg
+cover-photo-alt: Koja cliff, Tangerang, Indonesia
+icon: fa-infinity
+icon-style: light
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
