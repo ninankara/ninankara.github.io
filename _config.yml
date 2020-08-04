@@ -45,8 +45,8 @@ collections: [sections]
 
 # Theme Settings
 order: 1
-# cover-photo: assets/gFY120s.jpg
-# cover-photo-alt: Koja cliff, Tangerang, Indonesia
+cover-photo: assets/banner.jpg
+cover-photo-alt: Koja cliff, Tangerang, Indonesia
 icon: fa-infinity
 icon-style: light
 
