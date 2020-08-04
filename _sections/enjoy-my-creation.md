@@ -1,6 +1,6 @@
 ---
-title: Welcome to my workspace
-icon: fa-check
+title: Welcome to my mind
+icon: fa-head-side-virus
 order: 5
 ---
 
