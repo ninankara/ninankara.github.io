@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Passionate developer who is trying to utilizing technology to solve real worl problem. This site contains past and ongoing project developed by the author.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-avatar: assets/ava.jpg
+avatar: assets/ava_48x48.jpg
 
 # Social settings
 twitter_url: https://twitter.com/ninankara
@@ -45,8 +45,8 @@ collections: [sections]
 
 # Theme Settings
 order: 1
-cover-photo: assets/gFY120s.jpg
-cover-photo-alt: Koja cliff, Tangerang, Indonesia
+# cover-photo: assets/gFY120s.jpg
+# cover-photo-alt: Koja cliff, Tangerang, Indonesia
 icon: fa-infinity
 icon-style: light
 
