@@ -36,7 +36,8 @@ instagram_url: https://www.instagram.com/ninankara/
 
 
 # Build settings
-remote_theme: chrisbobbe/jekyll-theme-prologue
+theme: jekyll-theme-prologue
+# remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
 
