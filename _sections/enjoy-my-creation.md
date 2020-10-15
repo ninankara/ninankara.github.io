@@ -1,6 +1,6 @@
 ---
-title: Welcome to my mind
-icon: fa-head-side-virus
+title: Welcome to my space
+icon: fa-headphones
 order: 5
 ---
 
